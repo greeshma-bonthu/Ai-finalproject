@@ -59,7 +59,8 @@ End For
 
 ##### Example trial chart
 
-<img src="/episodes Vs mean_scores.Jpeg">
+<img width="670" alt="image" src="https://user-images.githubusercontent.com/78608904/145621823-4f096b1e-e441-4470-99ca-7384927ea209.png">
+
 
 
 ### Run
